@@ -1,0 +1,1 @@
+This project was buit folowing this article https://deviniciative.wordpress.com/2020/06/02/hands-on-levando-uma-aplicacao-java-ate-o-kubernetes/
